@@ -6,7 +6,7 @@
  * Description: This plugin can be used to display terms and conditions fields into Contact Form 7 . This plugin specifically designed to work with Contact Form 7.
  * Version: 1.0.0
  * Author: Arafat Rahman
- * Author URI: https://riyadly.com
+ * Author URI: https://github.com/arafatrahman/
  * Text Domain: cf7-termsconditions
  *
  * @package Terms and conditions
